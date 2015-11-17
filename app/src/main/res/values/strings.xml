@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_GPS</string>
+    <string name="GPSAlertDialogTitle">ssss</string>
+    <string name="GPSAlertDialogMessage">dddd</string>
+    <string name="settings">settings</string>
+    <string name="cancel">cancel</string>
+</resources>
